@@ -1,5 +1,5 @@
 <p align="center"><a href="https://ziad-port.netlify.app"><img width="80%" alt="" src="./assets/gh-readme-header1.png" /></a></p>
-<h1>Hello, I am Ziad</h1>
+#<h1 align="center">Hello, I am Ziad</h1>
 <br />
 
 I'm a self-taught passionate FrontEnd developer from EGYPT
