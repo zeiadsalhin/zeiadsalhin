@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I am Ziad</h1>
 <br />
 
-I'm a self-taught passionate FrontEnd developer from EGYPT
+I'm a self-taught passionate FrontEnd developer from **EGYPT**
 
 **About me**
 
