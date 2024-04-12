@@ -8,9 +8,9 @@ I'm a self-taught passionate FrontEnd developer from **EGYPT**
 
 - 💼 FrontEnd Developer at [Pactel](https://pactel.info/)
 
-- 📈 Built and Maintained Landing pages, Pactel Pages, and Web applications.
+- 📈 Built and Maintained Landing pages, Pactel Pages, and Web applications, Online stores.
 
-- ❤️ I love developing using Javascript and Vue
+- ❤️ I love developing using Javascript and Vue, Nuxt, Vuetify, Supabase, Tailwind.
 
 - 💬 Ask me about anything [here](https://github.com/zeiadsalhin/zeiadsalhin/issues)
 
