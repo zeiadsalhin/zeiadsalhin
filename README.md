@@ -20,7 +20,7 @@ Here are some of the technologies I work with:
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/9d826b08ec88f7ff81b5c51d0fbe9a6a3a9c0a0f/topics/react/react.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/05a042f7178dbebd2b6d7a9d6c35413d7c56c0b7/topics/react/react.png"></code>
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ---
