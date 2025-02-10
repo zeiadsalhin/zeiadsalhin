@@ -29,7 +29,7 @@ Here are some of the technologies I work with:
 
 I prioritize **SEO** and **performance optimization** in all of my projects. Below is a glimpse of my work on optimizing web apps for search engine ranking and fast loading speeds:
 
-<p align="center"><img width="80%" alt="SEO and Performance Optimization" src="./assets/seo-performance.png" /></p>
+<p align="center"><img width="80%" alt="SEO and Performance Optimization" src="https://thefront-alfa.netlify.app/SEO_Optimized_by_Alfa.png" /></p>
 
 - 🏎️ Improved load times with **lazy loading**, **code splitting**, and **optimized assets**
 - 🚀 Implemented **SEO best practices** to improve visibility and ranking on search engines
